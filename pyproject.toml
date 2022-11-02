@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "unholy-trinity"
+version = "0.1.0"
+description = ""
+authors = ["Simon Ledam <phnome@protonmail.com>"]
+readme = "README.md"
+packages = [{include = "unholy_trinity", from = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pygame = "^2.1.2"
+
+
+[tool.poetry.group.development.dependencies]
+black = "^22.10.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
