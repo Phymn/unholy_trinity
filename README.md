@@ -6,5 +6,6 @@
 ## Overview
 
 Opensource game done in Python and Pygame.
-The idea is to create a 2D-top down (A Link to the Past) with elements stolen from D&D.
-Such as classes, attributes and lore.
+
+The idea is to create a 2D-Top down game with elements from D&D.\
+Such as Attributes, classes and items.
