@@ -2,7 +2,7 @@
 name = "unholy-trinity"
 version = "0.1.0"
 description = ""
-authors = ["Simon Ledam <phnome@protonmail.com>"]
+authors = ["Hinken"]
 readme = "README.md"
 packages = [{include = "unholy_trinity", from = "src"}]
 
